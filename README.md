@@ -1,2 +1,3 @@
-# JSON-Comuni-Italiani
-Lista di tutti i comuni italiani in formato JSON con informazioni quali provincia e codice catasto
+# Lista di tutti i comuni italiani in JSON
+
+In questa repository ho voluto rendere pubblico il .json contenente tutti i comuni italiani presenti fino a gennaio 2023
